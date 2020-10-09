@@ -4,11 +4,27 @@
   "description": "Add /node_modules in .gitignore after install Title changes are just in the /public/index.html file",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "react-scripts start"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^3.4.3"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
