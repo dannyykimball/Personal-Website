@@ -1,0 +1,14 @@
+{
+  "name": "acekimball.com",
+  "version": "1.0.0",
+  "description": "Add /node_modules in .gitignore after install Title changes are just in the /public/index.html file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
