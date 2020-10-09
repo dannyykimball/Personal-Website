@@ -1,4 +1,4 @@
-# NewReactTemplate
+# AceKimball.com
 
 Add /node_modules in .gitignore after install
 Title changes are just in the /public/index.html file
